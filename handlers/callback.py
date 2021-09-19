@@ -31,13 +31,13 @@ async def cbstart(_, query: CallbackQuery):
                         "💝 Donate", url=f"https://t.me/{OWNER_NAME}")
                 ],[
                     InlineKeyboardButton(
-                        "👥 Official Group", url=f"https://t.me/{GROUP_SUPPORT}"
+                        "👥 Support Group", url=f"https://t.me/{GROUP_SUPPORT}"
                     ),
                     InlineKeyboardButton(
                         "📣 Official Channel", url=f"https://t.me/{UPDATES_CHANNEL}")
                 ],[
                     InlineKeyboardButton(
-                        "🌐 Github Page", url="https://github.com/NEW-KANGER")
+                        "🌐 Chatting Group", url="https://t.me/bestfrnsforever")
                 ],[
                     InlineKeyboardButton(
                         "🧪 Source Code 🧪", url="https://telegra.ph/file/4bf3473a37960ea4a2a88.jpg"
